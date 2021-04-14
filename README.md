@@ -1,4 +1,4 @@
-#Pasos de la instalación
+# Pasos de la instalación
 
 - Tener instalado composer, yo estoy usando la version version 2.0.11
 - Descargue los paquetes con el comando: composer install 
