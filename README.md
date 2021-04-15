@@ -18,3 +18,9 @@ $_SERVER
 ````
  APP = "DEV"
 ````
+
+
+# Ilustrando el contenido en ENV
+
+<img width="1271" alt="env" src="https://user-images.githubusercontent.com/80425451/114800329-24377400-9d5f-11eb-876e-26cf8c654835.png">
+
